@@ -286,8 +286,8 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 
 <!-- 🔧 Tech Stack Visual -->
 <div align="center" style="margin-top: 20px; border-top: 1px solid #ccc; padding-top: 10px;">
-  <h4 style="display: inline-flex; align-items: center; gap: 8px; font-weight: bold; font-size: 18px; margin-bottom: 10px;">
-    <img src="https://img.icons8.com/fluency/48/toolbox.png" height="20" alt="Toolbox Icon" />
+  <h4 style="display: inline-flex; align-items: center; gap: 6px; font-weight: bold; font-size: 18px; margin-bottom: 10px;">
+    <img src="https://img.icons8.com/fluency/48/toolbox.png" height="17px" alt="Toolbox Icon" style="vertical-align: middle;" />
     Tech Stack
   </h4>
 
