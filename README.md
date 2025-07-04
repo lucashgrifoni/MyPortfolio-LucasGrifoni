@@ -92,7 +92,7 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 
 ---
 
-<h2 style="font-size: 38px; font-weight: bold;">🤖 Technologies & Tools:</h2>
+### <h2 style="font-size: 38px; font-weight: bold;">🤖 Technologies & Tools:</h2>
 
 <h2 style="font-size: 25px; font-weight: bold;">🛡️ Application Security & DevSecOps:</h2>
 
