@@ -232,12 +232,6 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
   </p>
 </div>
 
-
-'### 📊 Alguns dos meus principais destaques e conquistas ao longo da minha carreira foram: 
-
-
-
-
 ---
 
   <!-- Título limpo -->
