@@ -18,26 +18,13 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 <!-- Bloco visual com emoji de lupa -->
 <div style="padding-top: 30px;">
 
-  <!-- Título com emoji -->
-  <h3 style="margin-bottom: 15px;">
-    🔍 <strong>Gosto de...</strong>
-  </h3>
+🔍 **Gosto de...**
 
-  <!-- Lista sem bullets nativos, só com 🔹-->
-  <ul style="
-      list-style: none;
-      padding-left: 0;
-      margin-left: 0;
-      font-size: 15px;
-      line-height: 1.8;
-    ">
-    <li>🔹 Conectar profundidade técnica com pensamento estratégico;</li>
-    <li>🔹 Auxiliar times de desenvolvimento, operações e produto a tomarem decisões seguras sem comprometer a agilidade e qualidade;</li>
-    <li>🔹 Trazer clareza, estrutura e uma mentalidade <strong>"security-first"</strong> para ambientes complexos;</li>
-    <li>🔹 Não penso só em ferramentas, valorizo cultura, métricas e impacto;</li>
-  </ul>
+🔹 Conectar profundidade técnica com pensamento estratégico;  
+🔹 Auxiliar times de desenvolvimento, operações e produto a tomarem decisões seguras sem comprometer a agilidade e qualidade;  
+🔹 Trazer clareza, estrutura e uma mentalidade **"security-first"** para ambientes complexos;  
+🔹 Não penso só em ferramentas, valorizo cultura, métricas e impacto;  
 
-</div>
 
 <!-- Badges com ícones e texto em negrito -->
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
