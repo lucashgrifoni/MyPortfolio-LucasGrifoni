@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Henrique Grifoni
+# 👨🏻‍💻 Lucas Henrique Grifoni
 
 **`Application Security Specialist & DevSecOps Engineer`**
 
@@ -12,42 +12,184 @@ Meu diferencial está na capacidade de traduzir requisitos de segurança em solu
 
 Já liderei e implementei estratégias de Application Security & DevSecOps em setores como financeiro, aviação, telecomunicações e saúde.
 
+<!-- Badges de informações pessoais -->
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+<!-- Botão de LinkedIn -->
 <p align="left">
-    <a href="https://www.linkedin.com/in/lucas-henrique-grifoni/">
-        <img 
-            alt="My Linkedln" 
-            title="See my profile on Linkedin" 
-            src="
-            <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          "
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/lucas-henrique-grifoni/" target="_blank" rel="noopener noreferrer" style="
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #0077B5;
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+  ">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+      alt="LinkedIn" 
+      width="30" 
+      style="vertical-align: middle;"
+    />
+    Lucas Henrique Grifoni
+  </a>
+</p>
+
+<!-- Badges com ícones e texto em negrito -->
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  <!-- AppSec -->
+  <span style="
+    display: inline-flex;
+    align-items: center;
+    background-color: #1155ba;
+    color: white;
+    font-family: sans-serif;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+  ">
+    <i class="fa-solid fa-shield-halved" style="margin-right: 8px;"></i> Application Security
+  </span>
+
+  <!-- DevSecOps -->
+  <span style="
+    display: inline-flex;
+    align-items: center;
+    background-color: #0077b5;
+    color: white;
+    font-family: sans-serif;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+  ">
+    <i class="fa-solid fa-gears" style="margin-right: 8px;"></i> DevSecOps
+  </span>
+
+  <!-- Localização -->
+  <span style="
+    display: inline-flex;
+    align-items: center;
+    background-color: #2E2E2E;
+    color: white;
+    font-family: sans-serif;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+  ">
+    <i class="fa-solid fa-location-dot" style="margin-right: 8px;"></i> Araraquara, São Paulo, Brazil
+  </span>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Technologies & Tools:
+
+### 🛡️ Application Security & DevSecOps:
+
+•   Static, Dynamic, SCA, IAST & IaC Testing:
+Checkmarx, Snyk, VeraCode, BlackDuck, OX Security, SonarQube, Fortify, OWASP Dependency-Check, GHAS (GitHub Advanced Security), Gitleaks, TruffleHog;
+
+•	Secure Code Review & Threat Modeling:
+OWASP Top 10 (Web, API, Mobile), STRIDE, OWASP ASVS;
+
+•	CI/CD Security Enforcement:
+Security Gates, Break-the-Build, "Security Shift Left Strategies", "Secure SDLC" & "Security-by-Design", "Security Champions", Security Automation & Vulnerability Management, Application Security Strategy & Governance , API Security, Secure Architecture & Threat Modeling
+
+• Secure Code Review & Threat Modeling:
+  OWASP Top 10 (Web, API, Mobile), STRIDE, OWASP ASVS;
+
+
+### ⚙️ CI/CD & Automation:
+•	CI/CD Tools & DevOps Platforms:
+   Azure DevOps, AWS CodePipeline, GitHub Actions, GitLab CI/CD, Jenkins;
+•	Developer Enablement & Automation:
+   Pre-commit Hooks, Code Owners, Semgrep, ESLint;
+•	Secure Pipeline Integration & Validation:
+Open Policy Agent (OPA), Conftest, Azure Policy, ESLint, TFLint, Git Hooks, GitLeaks, TruffleHog, Detect Secrets, GitGuardian;
+•	Validation & Notification:
+Slack, MS Teams, Jira Webhooks, ServiceNow;
+• CI/CD Tools & DevOps Platforms:
+  Azure DevOps, AWS CodePipeline, GitHub Actions, GitLab CI/CD, Jenkins
+• Secure Pipeline Integration & Validation
+• Developer Enablement:
+  Pre-commit Hooks, Code Owners, Semgrep, ESLint
+• DevOps Enablement & Cloud-Native Security
+• Shift Left Strategies & Security Metrics
+### ☁️ Cloud & Infrastructure Security:
+
+•	Cloud Providers & Security Services:
+Azure (Defender for Cloud, Key Vault, Azure Policy)
+AWS (IAM, Security Hub, GuardDuty)
+GCP (Security Command Center, IAM, Workload Identity);
+•	Infrastructure as Code (IaC):
+Terraform, ARM Templates, Bicep, Helm;
+•	Container & Orchestration Security:
+Docker, Kubernetes, Trivy, Aqua, Sysdig;
+•	Microservices & Serverless Architectures:
+Kubernetes, Helm, Docker Compose, gRPC, REST APIs, ELK Stack / OpenSearch, AWS Lambda, Azure Functions, Google Cloud Functions, Terraform, Secrets Manager / Key Vault;
+• Cloud Providers & Security Services:
+  Azure (Defender for Cloud, Key Vault, Azure Policy),
+  AWS (IAM, Security Hub, GuardDuty),
+  GCP (Security Command Center, IAM, Workload Identity)
+• Infrastructure as Code (IaC):
+  Terraform, ARM Templates, Bicep, Helm
+• Container & Orchestration Security:
+  Docker, Kubernetes, Trivy, Aqua, Sysdig
+• Microservices, Serverless & API Gateway Security
+• Cloud Security Strategy & Incident Response
+### 🔐 Governance, Risk & Compliance (GRC):
+•	Security Standards & Frameworks:
+ISO/IEC 27001, NIST SP 800-53, PCI DSS, CIS Benchmarks;
+•	OWASP Models & Maturity Frameworks:
+SAMM, ASVS, MASVS, DSOMM, SLSA, SCVS, OWASP Top 10;
+•	GRC Platforms:
+OneTrust, Archer;
+•	Security Metrics & Dashboards:
+Power BI, Grafana;
+• Security Standards & Frameworks:
+  ISO/IEC 27001, NIST SP 800-53, PCI DSS, CIS Benchmarks
+• OWASP Models & Maturity Frameworks:
+  SAMM, ASVS, MASVS, DSOMM, SLSA, SCVS
+• GRC Platforms:
+  OneTrust, Archer
+• Security Metrics, Dashboards & Regulatory Compliance:
+  Power BI, Grafana
+• Risk Management, Compliance & Cybersecurity Governance
+### Programming & Scripting:
+•	Languages:
+Python, Java, JavaScript, C#, C++, Kotlin, Bash, Go, PHP, TypeScript, Swift, Rust, Ruby
+•	API & Web Protocols:
+REST, GraphQL, SOAP, API Gateway, WebSockets, Webhooks
+•	Authentication & Authorization Standards:
+JWT, OAuth 2.0, OpenID Connect, SAML
+•	Blockchain & Smart Contracts:
+Solidity, Slither, MythX, Oyente
+• Languages:
+  Python, Java, JavaScript, TypeScript, C#, C++, Bash, Go, PHP, Kotlin, Swift, Rust, Ruby
+• API & Web Protocols:
+  REST, GraphQL, SOAP, API Gateway, WebSockets, Webhooks
+• Authentication & Authorization Standards:
+  JWT, OAuth 2.0, OpenID Connect, SAML
+• Security Incident Response & Automation
+
+🔗 Blockchain, Web3 & Cryptoassets Security
+• Smart Contract Security & Audit:
+  Solidity
+• Web3, DeFi, Cryptoassets
+• Blockchain Security Strategy & Secure Development
+
+
+
 
 <img 
     align="left" 
