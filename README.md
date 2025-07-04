@@ -18,7 +18,7 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
             alt="My Linkedln" 
             title="See my profile on Linkedin" 
             src="
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           "
         />
     </a>
