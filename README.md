@@ -3,6 +3,7 @@
 **`Application Security Specialist & DevSecOps Engineer`**
 
 Sou um profissional dedicado, comprometido e proativo. Gosto de trabalhar com energia, responsabilidade e propósito. Acredito que minha experiência me permite não só resolver problemas, mas entregar soluções que realmente façam a diferença. Atuo com dedicação e foco em resultados. Minha experiência e visão estratégica me capacitam a oferecer soluções robustas e eficazes para os desafios enfrentados, me permitindo entregar soluções alinhadas às necessidades do negócio.
+
 Tenho 5 anos de experiência em ser especialista em Application Security e DevSecOps, onde atuei ajudando empresas a integrar segurança ao ciclo de desenvolvimento de software sem comprometer a agilidade e garantindo o sucesso.  Minha trajetória é guiada por uma convicção: a segurança deve ser um facilitador e não um obstáculo. Trabalho para garantir que a segurança esteja presente desde as fases iniciais do desenvolvimento, protegendo aplicações e infraestruturas com automação, design seguro e mitigação proativa de riscos.
 
 Gosto de atuar de forma transversal em times de desenvolvimento, arquitetura, infraestrutura e produto, garantindo que a segurança seja incorporada de forma automatizada, escalável e alinhada às metas de negócio.
@@ -13,9 +14,9 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 .
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.linkedin.com/in/lucas-henrique-grifoni/">
         <img 
-            alt="youtube subscribers" 
+            alt="My Linkedln" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
