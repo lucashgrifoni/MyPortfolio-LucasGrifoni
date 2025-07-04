@@ -12,6 +12,13 @@ Meu diferencial está na capacidade de traduzir requisitos de segurança em solu
 
 Já liderei e implementei estratégias de Application Security & DevSecOps em setores como financeiro, aviação, telecomunicações e saúde.
 
+🔍 Gosto de...
+
+🔹 Conectar profundidade técnica com pensamento estratégico;
+🔹 Auxílist times de desenvolvimento, operações e produto a tomarem decisões seguras sem comprometer a agilidade e qualidade;
+🔹 Trazer clareza, estrutura e uma mentalidade "security-first" para ambientes complexos;
+🔹 Não penso só em ferramentas, valorizo cultura, métricas e impacto;
+
 <!-- Badges com ícones e texto em negrito -->
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
 
@@ -93,10 +100,8 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
     style="padding-right: 10px;" 
     src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png" 
   />
-  <strong>Cell Phone:</strong> +55 (11) 99999-9999
+  <strong></strong> +55 (16) 99706-6837
 </p>
-
-<br/>
 
 <p>
   <img 
@@ -107,7 +112,8 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
     style="padding-right: 10px;" 
     src="https://img.icons8.com/ios-filled/50/000000/message-squared.png" 
   />
-  <strong>E-mail:</strong> lucas.grifoni@email.com
+  <strong></strong> lucas.henriquegrifoni@gmail.com
+
 </p>
 
 
@@ -342,23 +348,48 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 </div>
 
 
+'### 📊 Alguns dos meus principais destaques e conquistas ao longo da minha carreira foram: 
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<!-- Bloco Visual com borda e padding -->
+<div style="border-top: 2px solid #ccc; padding-top: 20px; margin-top: 30px;">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <!-- Título limpo -->
+  <h3 align="center" style="margin-bottom: 15px;">
+    <strong>📊 Alguns dos meus principais destaques e conquistas ao longo da minha carreira foram:</strong>
+  </h3>
 
-</p>
+  <!-- Lista de conquistas -->
+  <ul style="font-size: 15px; line-height: 1.8; padding: 0 20px;">
+    <li>Reduzir em <strong>40%</strong> o tempo médio de correção de vulnerabilidades críticas e altas ao estruturar processos de priorização e automação em pipelines CI/CD.</li>
+    <li>Implementar práticas de segurança com cobertura automatizada superior a <strong>90%</strong> nas esteiras de desenvolvimento, garantindo validações contínuas desde as fases iniciais.</li>
+    <li>Mitigar riscos de fraudes e vazamento de dados em ambientes regulados por meio de modelagem de ameaças, validações em APIs e code reviews críticos.</li>
+    <li>Treinar times de desenvolvimento em codificação segura, threat modeling e gestão de vulnerabilidades.</li>
+    <li>Estruturar programas de <strong>"Security Champions"</strong>, <strong>"Security-by-Design"</strong> e <strong>"Shift Left Security"</strong>, promovendo mindset seguro nos times.</li>
+    <li>Conduzir estratégias alinhadas a frameworks globais como OWASP SAMM, ASVS, NIST SP 800-53, PCI DSS, ISO 27001 e CIS Controls.</li>
+    <li>Apoiar áreas de produto, arquitetura e compliance na tomada de decisões com foco em segurança, agilidade e aderência regulatória.</li>
+  </ul>
+
+</div>
+
+---
+
+  <!-- Título limpo -->
+  <h3 align="center" style="margin-bottom: 15px;">
+    <strong>📈 Principais Resultados & Impacto:</strong>
+  </h3>
+
+•	Redução de 40% no tempo médio de correção de vulnerabilidades críticas e altas, com base em KPIs de SLA e indicadores de remediação;
+•	Mais de 90% de cobertura automatizada de segurança em pipelines CI/CD, impulsionando a maturidade DevSecOps e a conformidade contínua;
+•	Mitigação efetiva de riscos de fraude e vazamento de dados em aplicações reguladas por meio de threat modeling, code reviews críticos e validações em APIs;
+•	Criação de dashboards estratégicos para monitoramento de vulnerabilidades, maturidade AppSec, SLAs e tendências de riscos;
+•	Capacitação de +300 desenvolvedores e engenheiros com treinamentos práticos em codificação segura, gestão de vulnerabilidades e práticas de segurança como “Security Shift-Left”;
+•	Estruturação de programas de “Security Champions”, com metas atreladas à evolução técnica, engajamento e integração da segurança na cultura ágil;
+•	Apoio técnico e consultivo a times de produto, arquitetura e compliance, influenciando decisões estratégicas com foco em risco e aderência regulatória;
+•	Evolução contínua de processos e métricas através da definição e acompanhamento de indicadores que refletem impacto real e melhoria sustentável;
+•	Melhoria contínua baseada em feedbacks, lessons learned e ajustes de estratégia, garantindo evolução progressiva da segurança alinhada ao negócio;
+•	Implementação de iniciativas com resultados acima do esperado, como automações de segurança que reduziram etapas manuais e melhoraram o tempo de entrega de software em até 30%;
+•	Transformação do papel da segurança dentro da empresa, de área de controle para parceiro estratégico de produto e tecnologia
+•	Prevenção de incidentes em aplicações sensíveis, com modelagem de ameaças eficaz, revisões de arquitetura e remediação baseada em risco;
+•	Redução significativa de custos com retrabalho de desenvolvimento, ao integrar segurança desde o início do ciclo de vida com práticas de "Shift Left" e validações automatizadas;
+•	Diminuição de despesas com auditorias e consultorias externas, por meio de processos internos maduros, automações e controle contínuo de conformidade;
