@@ -11,13 +11,12 @@ Gosto de atuar de forma transversal em times de desenvolvimento, arquitetura, in
 Meu diferencial está na capacidade de traduzir requisitos de segurança em soluções práticas, fortalecendo a entrega de produtos resilientes, escaláveis e confiáveis sempre com visão de risco, compliance e resultado.
 
 Já liderei e implementei estratégias de Application Security & DevSecOps em setores como financeiro, aviação, telecomunicações e saúde.
-.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lucas-henrique-grifoni/">
         <img 
             alt="My Linkedln" 
-            title="Inscreva-se no meu canal" 
+            title="See my profile on Linkedin" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
