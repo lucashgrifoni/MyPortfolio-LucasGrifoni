@@ -92,9 +92,9 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 
 ---
 
-### 🤖 Technologies & Tools:
+<h2 style="font-size: 38px; font-weight: bold;">🤖 Technologies & Tools:</h2>
 
-### 🛡️ Application Security & DevSecOps:
+<h2 style="font-size: 25px; font-weight: bold;">🛡️ Application Security & DevSecOps:</h2>
 
 •   Static, Dynamic, SCA, IAST & IaC Testing:
 Checkmarx, Snyk, VeraCode, BlackDuck, OX Security, SonarQube, Fortify, OWASP Dependency-Check, GHAS (GitHub Advanced Security), Gitleaks, TruffleHog;
@@ -103,90 +103,111 @@ Checkmarx, Snyk, VeraCode, BlackDuck, OX Security, SonarQube, Fortify, OWASP Dep
 OWASP Top 10 (Web, API, Mobile), STRIDE, OWASP ASVS;
 
 •	CI/CD Security Enforcement:
-Security Gates, Break-the-Build, "Security Shift Left Strategies", "Secure SDLC" & "Security-by-Design", "Security Champions", Security Automation & Vulnerability Management, Application Security Strategy & Governance , API Security, Secure Architecture & Threat Modeling
+Security Gates, Break-the-Build, "Security Shift Left Strategies", "Secure SDLC" & "Security-by-Design", "Security Champions"; 
 
 • Secure Code Review & Threat Modeling:
   OWASP Top 10 (Web, API, Mobile), STRIDE, OWASP ASVS;
 
+• Security Automation & Vulnerability Management;
 
-### ⚙️ CI/CD & Automation:
+• Application Security Strategy & Governance;
+
+• API Security, Secure Architecture & Threat Modeling;
+
+<h2 style="font-size: 25px; font-weight: bold;">⚙️ CI/CD & Automation:</h2>
+
 •	CI/CD Tools & DevOps Platforms:
-   Azure DevOps, AWS CodePipeline, GitHub Actions, GitLab CI/CD, Jenkins;
+Azure DevOps, AWS CodePipeline, GitHub Actions, GitLab CI/CD, Jenkins;
+
 •	Developer Enablement & Automation:
-   Pre-commit Hooks, Code Owners, Semgrep, ESLint;
+Pre-commit Hooks, Code Owners, Semgrep, ESLint;
+
 •	Secure Pipeline Integration & Validation:
 Open Policy Agent (OPA), Conftest, Azure Policy, ESLint, TFLint, Git Hooks, GitLeaks, TruffleHog, Detect Secrets, GitGuardian;
+
 •	Validation & Notification:
 Slack, MS Teams, Jira Webhooks, ServiceNow;
+
 • CI/CD Tools & DevOps Platforms:
-  Azure DevOps, AWS CodePipeline, GitHub Actions, GitLab CI/CD, Jenkins
-• Secure Pipeline Integration & Validation
+  Azure DevOps, AWS CodePipeline, GitHub Actions, GitLab CI/CD, Jenkins;
+
+• Secure Pipeline Integration & Validation;
+
 • Developer Enablement:
-  Pre-commit Hooks, Code Owners, Semgrep, ESLint
-• DevOps Enablement & Cloud-Native Security
-• Shift Left Strategies & Security Metrics
-### ☁️ Cloud & Infrastructure Security:
+  Pre-commit Hooks, Code Owners, Semgrep, ESLint;
+
+• DevOps Enablement & Cloud-Native Security;
+
+• Shift Left Strategies & Security Metrics;
+
+
+<h2 style="font-size: 25px; font-weight: bold;">☁️ Cloud & Infrastructure Security:</h2>
 
 •	Cloud Providers & Security Services:
 Azure (Defender for Cloud, Key Vault, Azure Policy)
 AWS (IAM, Security Hub, GuardDuty)
 GCP (Security Command Center, IAM, Workload Identity);
+
 •	Infrastructure as Code (IaC):
 Terraform, ARM Templates, Bicep, Helm;
+
 •	Container & Orchestration Security:
 Docker, Kubernetes, Trivy, Aqua, Sysdig;
+
 •	Microservices & Serverless Architectures:
 Kubernetes, Helm, Docker Compose, gRPC, REST APIs, ELK Stack / OpenSearch, AWS Lambda, Azure Functions, Google Cloud Functions, Terraform, Secrets Manager / Key Vault;
-• Cloud Providers & Security Services:
+
+ Cloud Providers & Security Services:
   Azure (Defender for Cloud, Key Vault, Azure Policy),
   AWS (IAM, Security Hub, GuardDuty),
-  GCP (Security Command Center, IAM, Workload Identity)
+  GCP (Security Command Center, IAM, Workload Identity);
+
 • Infrastructure as Code (IaC):
-  Terraform, ARM Templates, Bicep, Helm
+  Terraform, ARM Templates, Bicep, Helm;
+
 • Container & Orchestration Security:
-  Docker, Kubernetes, Trivy, Aqua, Sysdig
-• Microservices, Serverless & API Gateway Security
-• Cloud Security Strategy & Incident Response
-### 🔐 Governance, Risk & Compliance (GRC):
+  Docker, Kubernetes, Trivy, Aqua, Sysdig;
+
+• Microservices, Serverless & API Gateway Security;
+
+• Cloud Security Strategy & Incident Response;
+
+
+<h2 style="font-size: 25px; font-weight: bold;">🔐 Governance, Risk & Compliance (GRC):</h2>
+
 •	Security Standards & Frameworks:
 ISO/IEC 27001, NIST SP 800-53, PCI DSS, CIS Benchmarks;
+
 •	OWASP Models & Maturity Frameworks:
 SAMM, ASVS, MASVS, DSOMM, SLSA, SCVS, OWASP Top 10;
+
 •	GRC Platforms:
 OneTrust, Archer;
-•	Security Metrics & Dashboards:
-Power BI, Grafana;
-• Security Standards & Frameworks:
-  ISO/IEC 27001, NIST SP 800-53, PCI DSS, CIS Benchmarks
-• OWASP Models & Maturity Frameworks:
-  SAMM, ASVS, MASVS, DSOMM, SLSA, SCVS
-• GRC Platforms:
-  OneTrust, Archer
-• Security Metrics, Dashboards & Regulatory Compliance:
-  Power BI, Grafana
-• Risk Management, Compliance & Cybersecurity Governance
-### Programming & Scripting:
-•	Languages:
-Python, Java, JavaScript, C#, C++, Kotlin, Bash, Go, PHP, TypeScript, Swift, Rust, Ruby
-•	API & Web Protocols:
-REST, GraphQL, SOAP, API Gateway, WebSockets, Webhooks
-•	Authentication & Authorization Standards:
-JWT, OAuth 2.0, OpenID Connect, SAML
-•	Blockchain & Smart Contracts:
-Solidity, Slither, MythX, Oyente
-• Languages:
-  Python, Java, JavaScript, TypeScript, C#, C++, Bash, Go, PHP, Kotlin, Swift, Rust, Ruby
-• API & Web Protocols:
-  REST, GraphQL, SOAP, API Gateway, WebSockets, Webhooks
-• Authentication & Authorization Standards:
-  JWT, OAuth 2.0, OpenID Connect, SAML
-• Security Incident Response & Automation
 
-🔗 Blockchain, Web3 & Cryptoassets Security
+• Security Metrics, Dashboards & Regulatory Compliance:
+  Power BI, Grafana;
+
+• Risk Management, Compliance & Cybersecurity Governance;
+
+
+<h2 style="font-size: 25px; font-weight: bold;">### Programming & Scripting:</h2>
+•	Languages:
+Python, Java, JavaScript, C#, C++, Kotlin, Bash, Go, PHP, TypeScript, Swift, Rust, Ruby;
+
+•	API & Web Protocols:
+REST, GraphQL, SOAP, API Gateway, WebSockets, Webhooks;
+
+•	Authentication & Authorization Standards:
+JWT, OAuth 2.0, OpenID Connect, SAML;
+
+Blockchain, Web3 & Cryptoassets Security:
+
 • Smart Contract Security & Audit:
-  Solidity
-• Web3, DeFi, Cryptoassets
-• Blockchain Security Strategy & Secure Development
+Solidity, Slither, MythX, Oyente;
+
+• Web3, DeFi, Cryptoassets;
+
+• Blockchain Security Strategy & Secure Development;
 
 
 
