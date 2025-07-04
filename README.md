@@ -213,7 +213,6 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 ---
 
 <!-- 🔧 Tech Stack Visual -->
----
 
   <!-- Título limpo -->
   <h3 align="center" style="margin-bottom: 15px;">
