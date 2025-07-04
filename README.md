@@ -12,35 +12,6 @@ Meu diferencial está na capacidade de traduzir requisitos de segurança em solu
 
 Já liderei e implementei estratégias de Application Security & DevSecOps em setores como financeiro, aviação, telecomunicações e saúde.
 
-<!-- Badges de informações pessoais -->
-
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-
-<!-- Botão de LinkedIn -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-henrique-grifoni/" target="_blank" rel="noopener noreferrer" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    background-color: #0077B5;
-    color: white;
-    text-decoration: none;
-    padding: 8px 16px;
-    border-radius: 6px;
-    font-family: sans-serif;
-    font-weight: bold;
-    font-size: 16px;
-  ">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-      alt="LinkedIn" 
-      width="30" 
-      style="vertical-align: middle;"
-    />
-    Lucas Henrique Grifoni
-  </a>
-</p>
-
 <!-- Badges com ícones e texto em negrito -->
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
 
@@ -73,6 +44,74 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
   ">
     <i class="fa-solid fa-gears" style="margin-right: 8px;"></i> DevSecOps
   </span>
+
+<!-- Badges de informações pessoais -->
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+<!-- Botão de LinkedIn -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-henrique-grifoni/" target="_blank" rel="noopener noreferrer" style="
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #0077B5;
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+  ">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+      alt="LinkedIn" 
+      width="30" 
+      style="vertical-align: middle;"
+    />
+    Lucas Henrique Grifoni
+  </a>
+</p>
+<h3>
+  <img 
+    alt="Contact Card Icon" 
+    title="Contact Information" 
+    width="20px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+    src="https://img.icons8.com/ios-filled/50/000000/address-card.png" 
+  />
+  My Contact Information:
+</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="Mobile Icon" 
+    title="Cell Phone" 
+    width="18px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png" 
+  />
+  <strong>Cell Phone:</strong> +55 (11) 99999-9999
+</p>
+
+<br/>
+
+<p>
+  <img 
+    align="left" 
+    alt="Envelope Icon" 
+    title="E-mail" 
+    width="18px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/ios-filled/50/000000/message-squared.png" 
+  />
+  <strong>E-mail:</strong> lucas.grifoni@email.com
+</p>
+
+
+>
 
   <!-- Localização -->
   <span style="
@@ -126,8 +165,6 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
   </li>
 </ul>
 </small>
-`
-
 
 <h2 style="font-size: 25px; font-weight: bold;">⚙️ CI/CD & Automation:</h2>
 
@@ -285,11 +322,6 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 ---
 
 <!-- 🔧 Tech Stack Visual -->
-<div align="center" style="margin-top: 20px; border-top: 1px solid #ccc; padding-top: 10px;">
-  <h4 style="display: inline-flex; align-items: center; gap: 6px; font-weight: bold; font-size: 18px; margin-bottom: 10px;">
-    <img src="https://img.icons8.com/fluency/48/toolbox.png" height="17px" alt="Toolbox Icon" style="vertical-align: middle;" />
-    Tech Stack
-  </h4>
 
   <p align="center">
     <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -310,6 +342,7 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 </div>
 
 
+
 ### 📊 Estatísticas
 
 <p>
@@ -321,3 +354,11 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
     src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
