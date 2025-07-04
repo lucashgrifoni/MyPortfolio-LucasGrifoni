@@ -12,19 +12,15 @@ Meu diferencial está na capacidade de traduzir requisitos de segurança em solu
 
 Já liderei e implementei estratégias de Application Security & DevSecOps em setores como financeiro, aviação, telecomunicações e saúde.
 
-<!-- Bloco visual com emoji de lupa -->
-<div style="padding-top: 30px;">
-
-<!-- Bloco visual com emoji de lupa -->
-<div style="padding-top: 30px;">
-
+  <!-- Título com emoji -->
 🔍 **Gosto de...**
 
 🔹 Conectar profundidade técnica com pensamento estratégico;  
 🔹 Auxiliar times de desenvolvimento, operações e produto a tomarem decisões seguras sem comprometer a agilidade e qualidade;  
-🔹 Trazer clareza, estrutura e uma mentalidade **"security-first"** para ambientes complexos;  
+🔹 Trazer clareza, estrutura e uma mentalidade "security-first" para ambientes complexos;  
 🔹 Não penso só em ferramentas, valorizo cultura, métricas e impacto;  
 
+---
 
 <!-- Badges com ícones e texto em negrito -->
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -59,88 +55,43 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
     <i class="fa-solid fa-gears" style="margin-right: 8px;"></i> DevSecOps
   </span>
 
-<!-- Badges de informações pessoais -->
-
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-
-<!-- Botão de LinkedIn -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-henrique-grifoni/" target="_blank" rel="noopener noreferrer" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    background-color: #0077B5;
-    color: white;
-    text-decoration: none;
-    padding: 8px 16px;
-    border-radius: 6px;
-    font-family: sans-serif;
-    font-weight: bold;
-    font-size: 16px;
-  ">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-      alt="LinkedIn" 
-      width="30" 
-      style="vertical-align: middle;"
-    />
-    Lucas Henrique Grifoni
-  </a>
-</p>
-<h3>
-  <img 
-    alt="Contact Card Icon" 
-    title="Contact Information" 
-    width="20px" 
-    style="padding-right: 10px; vertical-align: middle;" 
-    src="https://img.icons8.com/ios-filled/50/000000/address-card.png" 
-  />
   My Contact Information:
-</h3>
 
-<p>
+<span style="
+  display: inline-flex;
+  align-items: center;
+  background-color:rgb(0, 0, 0);
+  color: white;
+  padding: 6px 16px;
+  border-radius: 8px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  gap: 8px;
+">
   <img 
-    align="left" 
-    alt="Mobile Icon" 
-    title="Cell Phone" 
-    width="18px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png" 
+    src="https://img.icons8.com/ios-filled/24/ffffff/new-post.png" 
+    alt="Email Icon" 
+    width="18px"
   />
-  <strong></strong> +55 (16) 99706-6837
-</p>
+  lucas.henriquegrifoni@gmail.com
+</span>
 
-<p>
-  <img 
-    align="left" 
-    alt="Envelope Icon" 
-    title="E-mail" 
-    width="18px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/ios-filled/50/000000/message-squared.png" 
-  />
-  <strong></strong> lucas.henriquegrifoni@gmail.com
+<!-- Localização -->
+<span style="
+  display: inline-block;
+  background-color:rgb(0, 0, 0);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  gap: 8px;
+">
+  <i class="fa-solid fa-location-dot"></i> Araraquara, São Paulo, Brazil
+</span>
 
-</p>
-
-
->
-
-  <!-- Localização -->
-  <span style="
-    display: inline-flex;
-    align-items: center;
-    background-color: #2E2E2E;
-    color: white;
-    font-family: sans-serif;
-    padding: 6px 12px;
-    border-radius: 5px;
-    font-size: 14px;
-    font-weight: bold;
-  ">
-    <i class="fa-solid fa-location-dot" style="margin-right: 8px;"></i> Araraquara, São Paulo, Brazil
-  </span>
-</p>
 
 ---
 
