@@ -17,7 +17,9 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
         <img 
             alt="My Linkedln" 
             title="See my profile on Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          "
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
