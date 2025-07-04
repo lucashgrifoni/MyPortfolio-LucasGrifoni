@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Lucas Henrique Grifoni
 
 **`Application Security Specialist & DevSecOps Engineer`**
 
