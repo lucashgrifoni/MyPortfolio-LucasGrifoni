@@ -15,10 +15,11 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 
 🔍 **I like to...**
 
--🔹 Connect technical depth with strategic thinking;
--🔹 Help development, operations, and product teams make secure decisions without compromising agility and quality;
--🔹 Bring clarity, structure, and a "security-first" mindset to complex environments;
--🔹 I don’t just think about tools — I value culture, metrics, and impact;
+- 🔹 Connect technical depth with strategic thinking;  
+- 🔹 Help development, operations, and product teams make secure decisions without compromising agility and quality;  
+- 🔹 Bring clarity, structure, and a "security-first" mindset to complex environments;  
+- 🔹 I don’t just think about tools — I value culture, metrics, and impact;
+
 
 --- 
 
