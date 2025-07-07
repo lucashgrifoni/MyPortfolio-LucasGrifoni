@@ -13,12 +13,12 @@ My differential lies in the ability to translate security requirements into prac
 I have led and implemented Application Security & DevSecOps strategies in sectors such as finance, aviation, telecommunications, and healthcare.
 
 
-🔍 **I like to...**
+🔍 **I like to...** <br>
 
-- 🔹 Connect technical depth with strategic thinking;  
-- 🔹 Help development, operations, and product teams make secure decisions without compromising agility and quality;  
-- 🔹 Bring clarity, structure, and a "security-first" mindset to complex environments;  
-- 🔹 I don’t just think about tools — I value culture, metrics, and impact;
+🔹 Connect technical depth with strategic thinking;<br>
+🔹 Help development, operations, and product teams make secure decisions without compromising agility and quality; <br>
+🔹 Bring clarity, structure, and a "security-first" mindset to complex environments; <br>
+🔹 I don’t just think about tools — I value culture, metrics, and impact.
 
 
 --- 
