@@ -2,27 +2,27 @@
 
 **`Application Security Specialist & DevSecOps Engineer`**
 
-Sou um profissional dedicado, comprometido e proativo. Gosto de trabalhar com energia, responsabilidade e propósito. Acredito que minha experiência me permite não só resolver problemas, mas entregar soluções que realmente façam a diferença. Atuo com dedicação e foco em resultados. Minha experiência e visão estratégica me capacitam a oferecer soluções robustas e eficazes para os desafios enfrentados, me permitindo entregar soluções alinhadas às necessidades do negócio.
+I am a dedicated, committed, and proactive professional. I like to work with energy, responsibility, and purpose. I believe that my experience allows me not only to solve problems but to deliver solutions that truly make a difference. I work with dedication and a focus on results. My experience and strategic vision enable me to offer robust and effective solutions to the challenges faced, allowing me to deliver solutions aligned with business needs.
 
-Tenho 5 anos de experiência em ser especialista em Application Security e DevSecOps, onde atuei ajudando empresas a integrar segurança ao ciclo de desenvolvimento de software sem comprometer a agilidade e garantindo o sucesso.  Minha trajetória é guiada por uma convicção: a segurança deve ser um facilitador e não um obstáculo. Trabalho para garantir que a segurança esteja presente desde as fases iniciais do desenvolvimento, protegendo aplicações e infraestruturas com automação, design seguro e mitigação proativa de riscos.
+I have 5 years of experience as a specialist in Application Security and DevSecOps, where I have helped companies integrate security into the software development lifecycle without compromising agility and ensuring success. My journey is guided by one conviction: security must be an enabler, not an obstacle. I work to ensure that security is present from the early stages of development, protecting applications and infrastructures with automation, secure design, and proactive risk mitigation.
 
-Gosto de atuar de forma transversal em times de desenvolvimento, arquitetura, infraestrutura e produto, garantindo que a segurança seja incorporada de forma automatizada, escalável e alinhada às metas de negócio.
+I enjoy working cross-functionally with development, architecture, infrastructure, and product teams, ensuring that security is incorporated in an automated, scalable manner and aligned with business goals.
 
-Meu diferencial está na capacidade de traduzir requisitos de segurança em soluções práticas, fortalecendo a entrega de produtos resilientes, escaláveis e confiáveis sempre com visão de risco, compliance e resultado.
+My differential lies in the ability to translate security requirements into practical solutions, strengthening the delivery of resilient, scalable, and reliable products, always with a focus on risk, compliance, and results.
 
-Já liderei e implementei estratégias de Application Security & DevSecOps em setores como financeiro, aviação, telecomunicações e saúde.
+I have led and implemented Application Security & DevSecOps strategies in sectors such as finance, aviation, telecommunications, and healthcare.
 
-  <!-- Título com emoji -->
-🔍 **Gosto de...**
 
-🔹 Conectar profundidade técnica com pensamento estratégico;  
-🔹 Auxiliar times de desenvolvimento, operações e produto a tomarem decisões seguras sem comprometer a agilidade e qualidade;  
-🔹 Trazer clareza, estrutura e uma mentalidade "security-first" para ambientes complexos;  
-🔹 Não penso só em ferramentas, valorizo cultura, métricas e impacto;  
+🔍 **I like to...**
+
+🔹 Connect technical depth with strategic thinking;
+🔹 Help development, operations, and product teams make secure decisions without compromising agility and quality;
+🔹 Bring clarity, structure, and a "security-first" mindset to complex environments;
+🔹 I don’t just think about tools — I value culture, metrics, and impact;
 
 --- 
 
-## 📧 Contact
+## 📧 Contact:
 
 - **GitHub:** [LucashGrifoni](https://github.com/yrosaguiar)  
 - **LinkedIn:** [Lucas Henrique Grifoni](https://www.linkedin.com/in/lucas-henrique-grifoni/)  
@@ -221,25 +221,6 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 
 ---
 
-<!-- 🔧 Tech Stack Visual -->
-<p align="center">
-  <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="Sass" title="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img alt="jQuery" title="jQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</p>
-
----
 
 <!-- Título limpo -->
 <h3 align="center">
@@ -267,5 +248,29 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
   </ul>
 </div>
 
----
 
+<!-- 🔧 Tech Stack Visual -->
+<p align="center">
+  <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Sass" title="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img alt="jQuery" title="jQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+  <!-- Office & Power Platform -->
+  <img alt="Microsoft Excel" title="Microsoft Excel" width="30px" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
+  <img alt="Microsoft Word" title="Microsoft Word" width="30px" src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" />
+  <img alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/power-bi.png" />
+  <img alt="PowerPoint" title="PowerPoint" width="30px" src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" />
+</p>
+
+---
