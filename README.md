@@ -223,31 +223,30 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 ---
 
 
-<!-- Título limpo -->
+<!-- Clean Title -->
 <h3 align="center">
-  <strong>📊 Alguns dos meus principais destaques e conquistas ao longo da minha carreira foram:</strong>
+  <strong>📊 Some of my key highlights and achievements throughout my career include:</strong>
 </h3>
 
-  <!-- Lista de conquistas -->
-  <ul style="font-size: 15px; line-height: 1.8; padding: 0 20px;">
-  <li>✅ Redução de <strong>40%</strong> no tempo médio de correção de vulnerabilidades críticas e altas, com base em KPIs de SLA e indicadores de remediação.</li>
-  <li>✅ Implementei práticas de segurança com cobertura automatizada superior a <strong>90%</strong> nas esteiras de desenvolvimento, garantindo validações contínuas desde as fases iniciais.</li>
-  <li>🔁 Mitiguei <strong>riscos de fraudes e vazamento de dados</strong> em ambientes regulados por meio de <strong>"threat modeling", validações em APIs e code reviews</strong> críticos.</li>
-  <li>🔁 Criação de dashboards estratégicos para monitoramento de vulnerabilidades, <strong>maturidade de AppSec & DevSec, SLAs e tendências de riscos.</strong></li>
-  <li>📚 Treinei e capacitei <strong>+500 desenvolvedores e engenheiros</strong> com treinamentos práticos em codificação segura, threat modeling e gestão de vulnerabilidades e práticas de segurança como <strong>“Shift-Left Security”.</strong></li>
-  <li>📚 Estruturei programas de <strong>"Security Champions"</strong>, <strong>"Security-by-Design"</strong> e <strong>"Shift Left Security"</strong>, com foco em fomentar o mindset de segurança nos times, alinhando essas iniciativas a metas claras, evolução técnica contínua, maior engajamento e a integração efetiva da segurança à cultura ágil da organização.</li>
-  <li>🧠 Conduzi estratégias alinhadas a frameworks globais como <strong> "OWASP SAMM, ASVS, NIST SP 800-53, PCI DSS, ISO 27001 e CIS Controls".</strong></li>
-  <li>🧠 Preveni e reduzi o <strong>número de incidentes em aplicações sensíveis</strong>, com modelagem de ameaças eficaz, revisões de arquitetura e remediação baseada em risco.</li>
-  <li>📉 Apoiei as <strong>áreas de produto, arquitetura e compliance</strong> na tomada de <strong>decisões com foco em segurança, agilidade e aderência regulatória.</strong></li>
-  <li>📉 Implementação de iniciativas com <strong>resultados</strong> acima do esperado, como <strong>automações de segurança</strong> que reduziram etapas manuais e melhoraram o tempo de entrega de software em até <strong>30%.</strong></li>
-  <li>🚀 Melhoria contínua baseada em <strong>feedbacks, “lessons learned” e ajustes de estratégia</strong>, garantindo evolução progressiva da segurança alinhada ao negócio.</li>
-  <li>🚀 Evolução contínua de <strong>processos e métricas</strong> através da definição e acompanhamento de indicadores que refletem <strong>impacto real e melhoria sustentável.</strong></li>   
-  <li>💰 Redução significativa de <strong>custos com retrabalho de desenvolvimento</strong>, ao integrar segurança desde o início do ciclo de vida de software com práticas de "Shift Left" e validações automatizadas.</li>
-  <li>💰 Conduzi a <strong>diminuição de despesas com auditorias e consultorias externas</strong>, por meio de processos internos maduros, automações e controle contínuo de conformidade.</li>
-  <li>🤝 Transformação do papel da segurança dentro da empresa, de área de controle para <strong>parceiro estratégico de produto e tecnologia</strong>.</li>
-  <li>🤝 Apoio técnico e consultivo a times de <strong>produto, arquitetura e compliance</strong>, influenciando <strong>decisões estratégicas com foco em risco e aderência regulatória.</strong></li>
-  </ul>
-</div>
+<!-- Achievements List -->
+<ul style="font-size: 15px; line-height: 1.8; padding: 0 20px;">
+  <li>✅ Reduced the average time to remediate critical and high vulnerabilities by <strong>40%</strong>, based on SLA KPIs and remediation metrics.</li>
+  <li>✅ Implemented security practices with automated coverage exceeding <strong>90%</strong> in development pipelines, ensuring continuous validation from the early stages.</li>
+  <li>🔁 Mitigated <strong>fraud and data leakage risks</strong> in regulated environments through <strong>threat modeling, API validations, and critical code reviews.</strong></li>
+  <li>🔁 Created strategic dashboards for monitoring vulnerabilities, <strong>AppSec & DevSec maturity, SLAs, and risk trends.</strong></li>
+  <li>📚 Trained and empowered <strong>500+ developers and engineers</strong> with practical training on secure coding, threat modeling, vulnerability management, and security practices like <strong>“Shift-Left Security.”</strong></li>
+  <li>📚 Structured programs such as <strong>"Security Champions"</strong>, <strong>"Security-by-Design"</strong>, and <strong>"Shift Left Security"</strong>, focused on fostering a security mindset in teams, aligning these initiatives with clear goals, ongoing technical development, greater engagement, and the effective integration of security into the organization's agile culture.</li>
+  <li>🧠 Led strategies aligned with global frameworks such as <strong>OWASP SAMM, ASVS, NIST SP 800-53, PCI DSS, ISO 27001, and CIS Controls.</strong></li>
+  <li>🧠 Prevented and reduced the <strong>number of incidents in sensitive applications</strong> through effective threat modeling, architecture reviews, and risk-based remediation.</li>
+  <li>📉 Supported <strong>product, architecture, and compliance</strong> teams in making <strong>security-focused decisions with agility and regulatory alignment.</strong></li>
+  <li>📉 Implemented initiatives with <strong>above-expected results</strong>, such as <strong>security automations</strong> that reduced manual steps and improved software delivery time by up to <strong>30%.</strong></li>
+  <li>🚀 Continuous improvement based on <strong>feedback, lessons learned, and strategy adjustments</strong>, ensuring progressive evolution of security aligned with business goals.</li>
+  <li>🚀 Ongoing enhancement of <strong>processes and metrics</strong> through the definition and tracking of indicators reflecting <strong>real impact and sustainable improvement.</strong></li>
+  <li>💰 Significant reduction in <strong>development rework costs</strong> by integrating security from the beginning of the software lifecycle using "Shift Left" practices and automated validations.</li>
+  <li>💰 Led the <strong>reduction of expenses with external audits and consulting</strong> by implementing mature internal processes, automations, and continuous compliance control.</li>
+  <li>🤝 Transformed the role of security within the company from a control area into a <strong>strategic partner of product and technology.</strong></li>
+  <li>🤝 Provided technical and advisory support to <strong>product, architecture, and compliance</strong> teams, influencing <strong>strategic decisions focused on risk and regulatory compliance.</strong></li>
+</ul>
 
 
 <!-- 🔧 Tech Stack Visual -->
