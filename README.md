@@ -22,6 +22,15 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 
 --- 
 
+## 📫 Contact
+
+- **GitHub:** [LucashGrifoni](https://github.com/yrosaguiar)  
+- **LinkedIn:** [Lucas Henrique Grifoni](https://www.linkedin.com/in/lucas-henrique-grifoni/)  
+- **Email:** lucas.henriquegrifoni@gmail.com  
+- **Location:** Araraquara, São Paulo, Brazil  
+
+---
+
 <h2 style="font-size: 38px; font-weight: bold;">🤖 Technologies & Tools:</h2>
 
 <h2 style="font-size: 25px; font-weight: bold;">🛡️ Application Security & DevSecOps:</h2>
@@ -213,11 +222,29 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 ---
 
 <!-- 🔧 Tech Stack Visual -->
+<p align="center">
+  <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Sass" title="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img alt="jQuery" title="jQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</p>
 
-  <!-- Título limpo -->
-  <h3 align="center" style="margin-bottom: 15px;">
-    <strong>📊 Alguns dos meus principais destaques e conquistas ao longo da minha carreira foram:</strong>
-  </h3>
+---
+
+<!-- Título limpo -->
+<h3 align="center">
+  <strong>📊 Alguns dos meus principais destaques e conquistas ao longo da minha carreira foram:</strong>
+</h3>
 
   <!-- Lista de conquistas -->
   <ul style="font-size: 15px; line-height: 1.8; padding: 0 20px;">
