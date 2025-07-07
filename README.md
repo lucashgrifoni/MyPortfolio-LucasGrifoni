@@ -3,7 +3,6 @@
 **`Application Security Specialist & DevSecOps Engineer`**
 
 I am a dedicated, committed, and proactive professional. I like to work with energy, responsibility, and purpose. I believe that my experience allows me not only to solve problems but to deliver solutions that truly make a difference. I work with dedication and a focus on results. My experience and strategic vision enable me to offer robust and effective solutions to the challenges faced, allowing me to deliver solutions aligned with business needs.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
 I have 5 years of experience as a specialist in Application Security and DevSecOps, where I have helped companies integrate security into the software development lifecycle without compromising agility and ensuring success. My journey is guided by one conviction: security must be an enabler, not an obstacle. I work to ensure that security is present from the early stages of development, protecting applications and infrastructures with automation, secure design, and proactive risk mitigation.
 
