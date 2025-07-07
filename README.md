@@ -23,6 +23,30 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 
 --- 
 
+--- 
+
+## 📧 Contact:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="24px" />
+  <strong>:</strong> <a href="https://github.com/LucashGrifoni">LucashGrifoni</a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24px" />
+  <strong>:</strong> <a href="https://www.linkedin.com/in/lucas-henrique-grifoni/">Lucas Henrique Grifoni</a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="24px" />
+  <strong>:</strong> lucas.henriquegrifoni@gmail.com
+</p>
+
+<p align="left">
+  <strong>Location:</strong> Araraquara, São Paulo, Brazil
+</p>
+
+
 ## 📧 Contact:
 
 - **GitHub:** [LucashGrifoni](https://github.com/yrosaguiar)  
