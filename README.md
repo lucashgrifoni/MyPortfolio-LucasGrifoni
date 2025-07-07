@@ -49,7 +49,7 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 
 <h2 style="font-size: 38px; font-weight: bold;">🤖 Technologies & Tools:</h2>
 
-<h2 style="font-size: 25px; font-weight: bold;">🛡️ Application Security & DevSecOps:</h2>
+<h2 style="font-size: 20px; font-weight: bold;">🛡️ Application Security & DevSecOps:</h2>
 
 <small>
 <ul style="list-style-type: disc; padding-left: 20px;">
@@ -82,7 +82,7 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 </ul>
 </small>
 
-<h2 style="font-size: 25px; font-weight: bold;">⚙️ CI/CD & Automation:</h2>
+<h2 style="font-size: 20px; font-weight: bold;">⚙️ CI/CD & Automation:</h2>
 
 <small>
 <ul style="list-style-type: disc; padding-left: 20px;">
@@ -127,7 +127,7 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 </ul>
 </small>
 
-<h2 style="font-size: 25px; font-weight: bold;">☁️ Cloud & Infrastructure Security:</h2>
+<h2 style="font-size: 20px; font-weight: bold;">☁️ Cloud & Infrastructure Security:</h2>
 
 <small>
 <ul style="list-style-type: disc; padding-left: 20px;">
@@ -162,7 +162,7 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 </ul>
 </small>
 
-<h2 style="font-size: 25px; font-weight: bold;">🔐 Governance, Risk & Compliance (GRC):</h2>
+<h2 style="font-size: 20px; font-weight: bold;">🔐 Governance, Risk & Compliance (GRC):</h2>
 
 
 <small>
@@ -195,7 +195,7 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 </ul>
 </small>
 
-<h2 style="font-size: 25px; font-weight: bold;">💻 Programming & Scripting:</h2>
+<h2 style="font-size: 20px; font-weight: bold;">💻 Programming & Scripting:</h2>
 
 <small>
 <ul style="list-style-type: disc; padding-left: 20px;">
