@@ -47,9 +47,9 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 
 ---
 
-<h2 style="font-size: 38px; font-weight: bold;">🤖 Technologies & Tools:</h2>
+## 🤖 **Technologies & Tools:**
 
-<h2 style="font-size: 20px; font-weight: bold;">🛡️ Application Security & DevSecOps:</h2>
+### 🛡️ **Application Security & DevSecOps:**
 
 <small>
 <ul style="list-style-type: disc; padding-left: 20px;">
