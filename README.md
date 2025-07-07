@@ -22,7 +22,7 @@ Já liderei e implementei estratégias de Application Security & DevSecOps em se
 
 --- 
 
-## 📫 Contact
+## 📧 Contact
 
 - **GitHub:** [LucashGrifoni](https://github.com/yrosaguiar)  
 - **LinkedIn:** [Lucas Henrique Grifoni](https://www.linkedin.com/in/lucas-henrique-grifoni/)  
