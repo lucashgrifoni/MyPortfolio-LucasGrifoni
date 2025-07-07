@@ -263,7 +263,6 @@ I have led and implemented Application Security & DevSecOps strategies in sector
   <li>🤝 Provided technical and advisory support to <strong>product, architecture, and compliance</strong> teams, influencing <strong>strategic decisions focused on risk and regulatory compliance.</strong></li>
 </ul>
 
----
 <!-- 🔧 Tech Stack Visual -->
 <p align="center">
   <!-- Frontend & Web -->
@@ -301,3 +300,5 @@ I have led and implemented Application Security & DevSecOps strategies in sector
   <img alt="Kubernetes" title="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
   <img alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
+
+---
