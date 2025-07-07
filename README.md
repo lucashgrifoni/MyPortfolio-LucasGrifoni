@@ -49,6 +49,44 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 
 <h2 style="font-size: 40px; font-weight: bold;">🤖 Technologies & Tools:</h2>
 
+<!-- 🔧 Tech Stack Visual -->
+<p align="center">
+  <!-- Frontend & Web -->
+  <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Sass" title="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+
+  <!-- Backend -->
+  <img alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img alt="jQuery" title="jQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+  <!-- Microsoft Office & Power Platform -->
+  <img alt="Microsoft Excel" title="Microsoft Excel" width="30px" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
+  <img alt="Microsoft Word" title="Microsoft Word" width="30px" src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" />
+  <img alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/power-bi.png" />
+  <img alt="PowerPoint" title="PowerPoint" width="30px" src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" />
+
+<!-- Cloud & DevOps -->
+<img alt="Microsoft Azure" title="Microsoft Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img alt="AWS" title="Amazon Web Services" width="30px" src="https://img.icons8.com/color/48/amazon-web-services.png" />
+<img alt="Google Cloud" title="Google Cloud Platform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+<img alt="DevOps" title="Azure DevOps" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+
+  <!-- Containers & OS -->
+  <img alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="Kubernetes" title="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</p>
+
 <h2 style="font-size: 10px; font-weight: bold;">🛡️ Application Security & DevSecOps:</h2>
 
 <small>
@@ -263,42 +301,6 @@ I have led and implemented Application Security & DevSecOps strategies in sector
   <li>🤝 Provided technical and advisory support to <strong>product, architecture, and compliance</strong> teams, influencing <strong>strategic decisions focused on risk and regulatory compliance.</strong></li>
 </ul>
 
-<!-- 🔧 Tech Stack Visual -->
-<p align="center">
-  <!-- Frontend & Web -->
-  <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="Sass" title="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 
-  <!-- Backend -->
-  <img alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img alt="jQuery" title="jQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-  <!-- Microsoft Office & Power Platform -->
-  <img alt="Microsoft Excel" title="Microsoft Excel" width="30px" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
-  <img alt="Microsoft Word" title="Microsoft Word" width="30px" src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" />
-  <img alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/power-bi.png" />
-  <img alt="PowerPoint" title="PowerPoint" width="30px" src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" />
-
-<!-- Cloud & DevOps -->
-<img alt="Microsoft Azure" title="Microsoft Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img alt="AWS" title="Amazon Web Services" width="30px" src="https://img.icons8.com/color/48/amazon-web-services.png" />
-<img alt="Google Cloud" title="Google Cloud Platform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img alt="DevOps" title="Azure DevOps" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-
-  <!-- Containers & OS -->
-  <img alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="Kubernetes" title="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
-  <img alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</p>
 
 ---
