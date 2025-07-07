@@ -47,8 +47,6 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 
 ---
 
-<h2 style="font-size: 40px; font-weight: bold;">🤖 Technologies & Tools:</h2>
-
 <!-- 🔧 Tech Stack Visual -->
 <p align="center">
   <!-- Frontend & Web -->
@@ -87,7 +85,9 @@ I have led and implemented Application Security & DevSecOps strategies in sector
   <img alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
 
-<h2 style="font-size: 10px; font-weight: bold;">🛡️ Application Security & DevSecOps:</h2>
+<h2 style="font-size: 40px; font-weight: bold;">🤖 Technologies & Tools:</h2>
+
+<h2 style="font-size: 20px; font-weight: bold;">🛡️ Application Security & DevSecOps:</h2>
 
 <small>
 <ul style="list-style-type: disc; padding-left: 20px;">
