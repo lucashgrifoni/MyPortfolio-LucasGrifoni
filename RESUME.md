@@ -22,6 +22,18 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 
 
 --- 
+💼 **My Work Experience:** <br>
+
+Gol Linhas Aéreas - **Specialist Application Security| Brazil – Remote<br>
+**B3 Digitas - DevSecOps Engineer** | Brazil – Remote<br>
+Ignít - Specialist Application Security| Europe – Remote<br>
+Algar Telecom - Specialist Application Security| Brazil – Remote<br>
+Trademaster – Application Security Engineer| Brazil – Remote<br>
+Avanade – Senior Application Security| Brazil – Remote<br>
+KPMG – Cyber Security Consultant Pleno| Brazil – Remote<br>
+Mosyle – Security Researcher I| Brazil – Remote<br>
+
+----
 
 ## 📧 Contact:
 
