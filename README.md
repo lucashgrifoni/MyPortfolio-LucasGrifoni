@@ -3,18 +3,18 @@
 <h2 align="center">Hello, I'm Lucas Henrique Grifoni</h2>
 
 <p align="center">
-  A passionate <strong>Application Security</strong> and <strong>DevSecOps</strong> professional.
-  🔍 If you want to learn more about my journey, experience, and achievements, check out my complete portfolio below:
+Um profissional apaixonado por <strong>Segurança de Aplicações</strong> e <strong>DevSecOps</strong>.
+🔍 Se quiser saber mais sobre minha trajetória, experiência e conquistas, confira meu portfólio completo abaixo:
 </p>
 
 <p align="center">
-Welcome to my portfolio on GitHub!
+Bem-vindo ao meu portfólio no GitHub!
 
-Here you will find a collection of my professional journey in Application Security and DevSecOps.
+Aqui você encontrará uma coleção da minha trajetória profissional em Segurança de Aplicações e DevSecOps.
 
-It includes my technical and interpersonal skills, main projects, tools I use daily, and highlights and achievements of my career.
+Inclui minhas habilidades técnicas e interpessoais, meus principais projetos, as ferramentas que utilizo diariamente e os destaques e conquistas da minha carreira.
 
-Feel free to explore and connect!
+Sinta-se à vontade para explorar e conectar-se!
 </p>
 
 <p align="center">
