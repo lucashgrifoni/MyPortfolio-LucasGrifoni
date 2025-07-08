@@ -5,7 +5,7 @@
 <p align="center">
   Welcome to my portfolio on GitHub! <br><br>
   Here you will find a collection of my professional journey in <strong>Application Security and DevSecOps.</strong>. <br><br>
-  It includes my technical and interpersonal skills, main projects, tools I use daily, and highlights and achievements of my career. <br><br>
+  This portfolio includes my technical and interpersonal skills, main projects, tools and technologies I have used throughout my journey, along with the highlights and achievements of my career. <br><br>
   Feel free to explore and connect !
 </p>
 
