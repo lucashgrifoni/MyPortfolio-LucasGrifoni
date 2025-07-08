@@ -21,7 +21,7 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 🔹 I don’t just think about tools — I value culture, metrics, and impact.
 
 --- 
-<h2> <img src="https://img.icons8.com/ios-filled/30/000000/briefcase.png"/> My Work Experience: </h2>
+  ## 💻 My Work Experience:
 
 💼 **Gol Linhas Aéreas –** ***Specialist Application Security*** | Brazil – Remote<br>
 💼 **B3 Digitas –** ***DevSecOps Engineer*** | Brazil – Remote<br>
