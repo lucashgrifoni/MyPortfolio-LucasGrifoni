@@ -20,18 +20,17 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 🔹 Bring clarity, structure, and a "security-first" mindset to complex environments; <br>
 🔹 I don’t just think about tools — I value culture, metrics, and impact.
 
-
 --- 
-💼 **My Work Experience:** <br>
+<h2> <img src="https://img.icons8.com/ios-filled/30/000000/briefcase.png"/> My Work Experience: </h2>
 
-Gol Linhas Aéreas - **Specialist Application Security| Brazil – Remote<br>
-**B3 Digitas - DevSecOps Engineer** | Brazil – Remote<br>
-Ignít - Specialist Application Security| Europe – Remote<br>
-Algar Telecom - Specialist Application Security| Brazil – Remote<br>
-Trademaster – Application Security Engineer| Brazil – Remote<br>
-Avanade – Senior Application Security| Brazil – Remote<br>
-KPMG – Cyber Security Consultant Pleno| Brazil – Remote<br>
-Mosyle – Security Researcher I| Brazil – Remote<br>
+💼 **Gol Linhas Aéreas –** ***Specialist Application Security*** | Brazil – Remote<br>
+💼 **B3 Digitas –** ***DevSecOps Engineer*** | Brazil – Remote<br>
+💼 **Ignít –** ***Specialist Application Security*** | Europe – Remote<br>
+💼 **Algar Telecom –** ***Specialist Application Security*** | Brazil – Remote<br>
+💼 **Trademaster –** ***Application Security Engineer*** | Brazil – Remote<br>
+💼 **Avanade –** ***Senior Application Security*** | Brazil – Remote<br>
+💼 **KPMG –** ***Cyber Security Consultant Pleno*** | Brazil – Remote<br>
+💼 **Mosyle –** ***Security Researcher I*** | Brazil – Remote<br>
 
 ----
 
