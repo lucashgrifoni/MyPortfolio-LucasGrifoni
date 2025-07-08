@@ -4,10 +4,17 @@
 
 <p align="center">
   A passionate <strong>Application Security</strong> and <strong>DevSecOps</strong> professional.
+  🔍 If you want to learn more about my journey, experience, and achievements, check out my complete portfolio below:
 </p>
 
 <p align="center">
-  🔍 If you want to learn more about my journey, experience, and achievements, check out my complete portfolio below:
+Welcome to my portfolio on GitHub!
+
+Here you will find a collection of my professional journey in Application Security and DevSecOps.
+
+It includes my technical and interpersonal skills, main projects, tools I use daily, and highlights and achievements of my career.
+
+Feel free to explore and connect!
 </p>
 
 <p align="center">
