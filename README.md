@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="./RESUME.md" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📄 View Resume-0077b5?style=for-the-badge&logo=readme&logoColor=white" alt="Link to Resume">
+    <img src="https://img.shields.io/badge/📄 View Portfolio-0077b5?style=for-the-badge&logo=readme&logoColor=white" alt="Link to Resume">
   </a>
 </p>
 
