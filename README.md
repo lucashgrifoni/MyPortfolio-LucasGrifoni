@@ -3,7 +3,7 @@
 <h2 align="center"> Olá, eu sou o Lucas Henrique Grifoni</h2>
 
 <p align="center">
-  Profissional apaixonado por <strong>Application Security</strong> e <strong>DevSecOps</strong>, com forte atuação em estratégias seguras para SDLC, CI/CD, nuvem, e desenvolvimento seguro. 
+  Profissional de <strong>Application Security</strong> e <strong>DevSecOps</strong>, com forte atuação em estratégias. 
 </p>
 
 <p align="center">
