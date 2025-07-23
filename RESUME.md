@@ -29,7 +29,7 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 💼 **Algar Telecom –** ***Specialist Application Security*** | Brazil – Remote.<br>
 💼 **Trademaster –** ***Application Security Engineer*** | Brazil – Remote.<br>
 💼 **Avanade –** ***Senior Application Security*** | Brazil – Remote.<br>
-💼 **KPMG –** ***Cyber Security Consultant Mid-Level*** | Brazil – Remote.***<br>
+💼 **KPMG –** ***Cyber Security Consultant Mid-Level*** | Brazil – Remote.<br>
 💼 **Mosyle –** ***Security Researcher I*** | Brazil – Remote.<br>
 
 ----
