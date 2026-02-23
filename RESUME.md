@@ -103,7 +103,7 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 <small>
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li style="margin-bottom: 10px;">
-    <strong>Static, Dynamic, SCA, IAST & IaC Testing:</strong><br/>
+    <strong>SAST, DAST, SCA, IAST & IaC Testing:</strong><br/>
     Checkmarx, Snyk, VeraCode, BlackDuck, OX Security, SonarQube, Fortify, OWASP Dependency-Check, GHAS (GitHub Advanced Security), Gitleaks, TruffleHog;
   </li>
 
