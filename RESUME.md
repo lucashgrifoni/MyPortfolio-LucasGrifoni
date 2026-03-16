@@ -25,17 +25,17 @@ I have led and implemented Application Security & DevSecOps strategies in sector
 
   ## 🧠 Technical Case Studies
 
-### 1. CI/CD Security Enablement
+### 1. CI/CD Security Enablement:
 **Context:** Enterprise development pipelines with limited automated security validation and excessive manual effort.  
 **Approach:** Integrated SAST, SCA, secrets detection, and IaC scanning into CI/CD workflows using security gates, policy validation, and break-the-build strategies.  
 **Outcome:** Increased security coverage, reduced manual validation effort, and improved early vulnerability detection before production.
 
-### 2. Threat Modeling & Secure Architecture
+### 2. Threat Modeling & Secure Architecture:
 **Context:** Critical web, mobile, and API applications in regulated and high-risk business environments.  
 **Approach:** Conducted threat modeling using STRIDE and OWASP methodologies, reviewed architecture decisions, and guided secure design remediation plans.  
 **Outcome:** Reduced exposure to fraud, insecure integrations, design flaws, and data leakage risks.
 
-### 3. Developer Enablement & Security Culture
+### 3. Developer Enablement & Security Culture:
 **Context:** Engineering teams needed scalable security support without compromising agility and product velocity.  
 **Approach:** Created secure coding initiatives, training sessions, practical guidance, and Security Champions programs to improve ownership and collaboration.  
 **Outcome:** Strengthened security culture, increased remediation engagement, and improved alignment between security and engineering teams.
