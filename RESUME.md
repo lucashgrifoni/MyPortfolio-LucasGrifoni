@@ -4,7 +4,7 @@
 
 I am a dedicated, committed, and proactive professional. I like to work with energy, responsibility, and purpose. I believe that my experience allows me not only to solve problems but to deliver solutions that truly make a difference. I work with dedication and a focus on results. My experience and strategic vision enable me to offer robust and effective solutions to the challenges faced, allowing me to deliver solutions aligned with business needs.
 
-I have 6 years of experience as a specialist in Application Security and DevSecOps, where I have helped companies integrate security into the software development lifecycle without compromising agility and ensuring success. My journey is guided by one conviction: security must be an enabler, not an obstacle. I work to ensure that security is present from the early stages of development, protecting applications and infrastructures with automation, secure design, and proactive risk mitigation.
+I have 5 years of experience as a specialist in Application Security and DevSecOps, where I have helped companies integrate security into the software development lifecycle without compromising agility and ensuring success. My journey is guided by one conviction: security must be an enabler, not an obstacle. I work to ensure that security is present from the early stages of development, protecting applications and infrastructures with automation, secure design, and proactive risk mitigation.
 
 I enjoy working cross-functionally with development, architecture, infrastructure, and product teams, ensuring that security is incorporated in an automated, scalable manner and aligned with business goals.
 
@@ -12,74 +12,25 @@ My differential lies in the ability to translate security requirements into prac
 
 I have led and implemented Application Security & DevSecOps strategies in sectors such as finance, aviation, telecommunications, and healthcare.
 
-I implemented Application Security and DevSecOps strategies in complex and regulated environments, helping organizations strengthen resilience, improve remediation efficiency, and build security maturity through automation, governance, and collaboration.
 
-🔍 What I Do Best:
+🔍 **I like to...** <br>
 
-🔹 Embed Application Security into software delivery without slowing engineering teams down;  
-🔹 Design and enforce security controls across CI/CD, cloud, containers, APIs, and infrastructure;  
-🔹 Lead threat modeling, secure design reviews, and risk-based remediation initiatives;  
-🔹 Build scalable enablement programs such as Security Champions, Security by Design, and Shift Left Security;  
-🔹 Translate security requirements into practical, measurable, and engineering-friendly solutions;  
-🔹 Connect technical depth with strategic thinking, metrics, and business impact.  
-
---- 
-
-  ## 🧠 Technical Case Studies
-
-### 1. CI/CD Security Enablement:
-**Context:** Enterprise development pipelines with limited automated security validation and excessive manual effort.  
-**Approach:** Integrated SAST, SCA, secrets detection, and IaC scanning into CI/CD workflows using security gates, policy validation, and break-the-build strategies.  
-**Outcome:** Increased security coverage, reduced manual validation effort, and improved early vulnerability detection before production.
-
-### 2. Threat Modeling & Secure Architecture:
-**Context:** Critical web, mobile, and API applications in regulated and high-risk business environments.  
-**Approach:** Conducted threat modeling using STRIDE and OWASP methodologies, reviewed architecture decisions, and guided secure design remediation plans.  
-**Outcome:** Reduced exposure to fraud, insecure integrations, design flaws, and data leakage risks.
-
-### 3. Developer Enablement & Security Culture:
-**Context:** Engineering teams needed scalable security support without compromising agility and product velocity.  
-**Approach:** Created secure coding initiatives, training sessions, practical guidance, and Security Champions programs to improve ownership and collaboration.  
-**Outcome:** Strengthened security culture, increased remediation engagement, and improved alignment between security and engineering teams.
+🔹 Connect technical depth with strategic thinking;<br>
+🔹 Help development, operations, and product teams make secure decisions without compromising agility and quality; <br>
+🔹 Bring clarity, structure, and a "security-first" mindset to complex environments; <br>
+🔹 I don’t just think about tools — I value culture, metrics, and impact.
 
 --- 
   ## 💻 My Work Experience:
 
-### 💼 Gol Linhas Aéreas – Application Security Specialist | Brazil – Remote (Present)
-- Lead Application Security and DevSecOps initiatives across software delivery workflows, integrating security into CI/CD, APIs, containers, and cloud-native applications;
-- Support secure design reviews, threat modeling, and risk-based remediation for critical applications in a regulated aviation environment;
-- Improve security coverage and remediation efficiency through pipeline automation, governance, and developer enablement.
-
-### 💼 B3 Digitas – DevSecOps Engineer | Brazil – Remote
-- Led security initiatives for digital financial products, including highly regulated and innovation-driven environments;
-- Embedded security controls into CI/CD workflows, infrastructure, and application pipelines using automation and secure development practices;
-- Supported secure delivery through cloud, container, API, and architecture security reviews.
-
-### 💼 Ignít – Application Security Specialist | Europe – Remote
-- Designed and strengthened AppSec and DevSecOps practices across the software lifecycle in distributed engineering environments;
-- Conducted threat modeling, secure code reviews, and offensive/defensive validations for web, mobile, and API applications;
-- Advanced security maturity through governance, metrics, enablement, and compliance-aligned initiatives.
-
-### 💼 Algar Telecom – Application Security Specialist | Brazil – Remote
-- Led application security strategy and implementation across development, architecture, and operations teams;
-- Integrated SAST, DAST, SCA, and IAST into CI/CD workflows while promoting Security by Design and Shift Left practices;
-- Helped improve security maturity in a large-scale telecommunications environment through standards, controls, and training.
-
-### 💼 Trademaster – Application Security Engineer | Brazil – Remote
-- Supported secure software development practices and application security improvements in product delivery environments;
-- Contributed to secure pipeline validation, secure coding practices, and risk reduction initiatives.
-
-### 💼 Avanade – Senior Application Security | Brazil – Remote
-- Worked on security initiatives involving secure development, application validation, and collaboration with engineering teams;
-- Contributed to risk reduction and the implementation of security best practices in enterprise environments.
-
-### 💼 KPMG – Cyber Security Consultant Mid-Level | Brazil – Remote
-- Supported cybersecurity and security assessment initiatives focused on governance, risk, compliance, and technical security controls;
-- Worked with teams to improve security posture, process maturity, and compliance alignment.
-
-### 💼 Mosyle – Security Researcher I | Brazil – Remote
-- Contributed to security research activities, analysis, and technical support in security-related initiatives;
-- Strengthened technical foundations in vulnerability analysis, security thinking, and practical security investigation.
+💼 **Gol Linhas Aéreas –** ***Specialist Application Security*** | Brazil – Remote ***(Present)***.<br>
+💼 **B3 Digitas –** ***DevSecOps Engineer*** | Brazil – Remote.<br>
+💼 **Ignít –** ***Specialist Application Security*** | Europe – Remote.<br>
+💼 **Algar Telecom –** ***Specialist Application Security*** | Brazil – Remote.<br>
+💼 **Trademaster –** ***Application Security Engineer*** | Brazil – Remote.<br>
+💼 **Avanade –** ***Senior Application Security*** | Brazil – Remote.<br>
+💼 **KPMG –** ***Cyber Security Consultant Mid-Level | Brazil – Remote.***<br>
+💼 **Mosyle –** ***Security Researcher I*** | Brazil – Remote.<br>
 
 ----
 
@@ -152,7 +103,7 @@ I implemented Application Security and DevSecOps strategies in complex and regul
 <small>
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li style="margin-bottom: 10px;">
-    <strong>SAST, DAST, SCA, IAST & IaC Testing:</strong><br/>
+    <strong>Static, Dynamic, SCA, IAST & IaC Testing:</strong><br/>
     Checkmarx, Snyk, VeraCode, BlackDuck, OX Security, SonarQube, Fortify, OWASP Dependency-Check, GHAS (GitHub Advanced Security), Gitleaks, TruffleHog;
   </li>
 
@@ -340,7 +291,7 @@ I implemented Application Security and DevSecOps strategies in complex and regul
 <h3 align="center">
   <strong>📊 Some of my key highlights and achievements throughout my career include:</strong>
 </h3>
- 
+
 <!-- Achievements List -->
 <ul style="font-size: 15px; line-height: 1.8; padding: 0 20px;">
   <li>✅ Reduced the average time to remediate critical and high vulnerabilities by <strong>40%</strong>, based on SLA KPIs and remediation metrics.</li>
