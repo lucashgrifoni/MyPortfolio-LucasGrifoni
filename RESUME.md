@@ -4,13 +4,15 @@
 
 I am a dedicated, committed, and proactive professional. I like to work with energy, responsibility, and purpose. I believe that my experience allows me not only to solve problems but to deliver solutions that truly make a difference. I work with dedication and a focus on results. My experience and strategic vision enable me to offer robust and effective solutions to the challenges faced, allowing me to deliver solutions aligned with business needs.
 
-I have 5 years of experience as a specialist in Application Security and DevSecOps, where I have helped companies integrate security into the software development lifecycle without compromising agility and ensuring success. My journey is guided by one conviction: security must be an enabler, not an obstacle. I work to ensure that security is present from the early stages of development, protecting applications and infrastructures with automation, secure design, and proactive risk mitigation.
+I have 6 years of experience as a specialist in Application Security and DevSecOps, where I have helped companies integrate security into the software development lifecycle without compromising agility and ensuring success. My journey is guided by one conviction: security must be an enabler, not an obstacle. I work to ensure that security is present from the early stages of development, protecting applications and infrastructures with automation, secure design, and proactive risk mitigation.
 
 I enjoy working cross-functionally with development, architecture, infrastructure, and product teams, ensuring that security is incorporated in an automated, scalable manner and aligned with business goals.
 
 My differential lies in the ability to translate security requirements into practical solutions, strengthening the delivery of resilient, scalable, and reliable products, always with a focus on risk, compliance, and results.
 
 I have led and implemented Application Security & DevSecOps strategies in sectors such as finance, aviation, telecommunications, and healthcare.
+
+I implemented Application Security and DevSecOps strategies in complex and regulated environments, helping organizations strengthen resilience, improve remediation efficiency, and build security maturity through automation, governance, and collaboration.
 
 🔍 What I Do Best:
 
