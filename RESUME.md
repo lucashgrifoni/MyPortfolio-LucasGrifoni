@@ -10,9 +10,9 @@ I enjoy working cross-functionally with development, architecture, infrastructur
 
 My differential lies in the ability to translate security requirements into practical solutions, strengthening the delivery of resilient, scalable, and reliable products, always with a focus on risk, compliance, and results.
 
-I have led and implemented Application Security & DevSecOps strategies in sectors such as finance, aviation, telecommunications, and healthcare.
+I have led and implemented application security and DevSecOps strategies in industries such as finance, aviation, telecommunications, and healthcare. 
 
-I implemented Application Security and DevSecOps strategies in complex and regulated environments, helping organizations strengthen resilience, improve remediation efficiency, and build security maturity through automation, governance, and collaboration.
+In these roles, I have helped organizations strengthen their resilience, improve the efficiency of their security fixes, and develop security maturity through automation, governance, and collaboration.
 
 🔍 What I Do Best:
 
@@ -46,9 +46,9 @@ I implemented Application Security and DevSecOps strategies in complex and regul
   ## 💻 My Work Experience:
 
 ### 💼 Gol Linhas Aéreas – Application Security Specialist | Brazil – Remote (Present)
-- Lead Application Security and DevSecOps initiatives across software delivery workflows, integrating security into CI/CD, APIs, containers, and cloud-native applications;
-- Support secure design reviews, threat modeling, and risk-based remediation for critical applications in a regulated aviation environment;
-- Improve security coverage and remediation efficiency through pipeline automation, governance, and developer enablement.
+- I led application security and DevSecOps initiatives across all software delivery workflows, integrating security into CI/CD, APIs, containers, and cloud-native applications;
+- Supported secure design reviews, threat modeling, and risk-based remediation for critical applications in a regulated aviation environment;
+- Helped improve security coverage and remediation efficiency through pipeline automation, governance, and developer training.
 
 ### 💼 B3 Digitas – DevSecOps Engineer | Brazil – Remote
 - Led security initiatives for digital financial products, including highly regulated and innovation-driven environments;
@@ -66,20 +66,20 @@ I implemented Application Security and DevSecOps strategies in complex and regul
 - Helped improve security maturity in a large-scale telecommunications environment through standards, controls, and training.
 
 ### 💼 Trademaster – Application Security Engineer | Brazil – Remote
-- Supported secure software development practices and application security improvements in product delivery environments;
-- Contributed to secure pipeline validation, secure coding practices, and risk reduction initiatives.
+- Supported the implementation of secure software development practices and improvements to application security in product delivery environments;
+- Contributed to secure pipeline validation, secure coding practices, and risk mitigation initiatives.
 
-### 💼 Avanade – Senior Application Security | Brazil – Remote
+### 💼 Avanade – Senior Application Security Engineer | Brazil – Remote
 - Worked on security initiatives involving secure development, application validation, and collaboration with engineering teams;
-- Contributed to risk reduction and the implementation of security best practices in enterprise environments.
+- Contributed to risk reduction and the implementation of security best practices in corporate environments.
 
-### 💼 KPMG – Cyber Security Consultant Mid-Level | Brazil – Remote
-- Supported cybersecurity and security assessment initiatives focused on governance, risk, compliance, and technical security controls;
+### 💼 KPMG – Mid-Level Cybersecurity Consultant | Brazil – Remote
+- Supported cybersecurity initiatives and security assessments focused on governance, risk, compliance, and technical security controls;
 - Worked with teams to improve security posture, process maturity, and compliance alignment.
 
 ### 💼 Mosyle – Security Researcher I | Brazil – Remote
-- Contributed to security research activities, analysis, and technical support in security-related initiatives;
-- Strengthened technical foundations in vulnerability analysis, security thinking, and practical security investigation.
+- Contributed to security research, analysis, and technical support for security-related initiatives;
+- Helped strengthen the technical foundations in vulnerability analysis and security thinking
 
 ----
 
