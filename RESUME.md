@@ -46,40 +46,44 @@ In these roles, I have helped organizations strengthen their resilience, improve
   ## 💻 My Work Experience:
 
 ### 💼 Gol Linhas Aéreas – Application Security Specialist | Brazil – Remote (Present)
-- I led application security and DevSecOps initiatives across all software delivery workflows, integrating security into CI/CD, APIs, containers, and cloud-native applications;
-- Supported secure design reviews, threat modeling, and risk-based remediation for critical applications in a regulated aviation environment;
-- Helped improve security coverage and remediation efficiency through pipeline automation, governance, and developer training.
+- Lead Application Security and DevSecOps initiatives across software delivery workflows, embedding security into CI/CD, APIs, containers, and cloud-native applications in a regulated aviation environment.
+- Drive secure design reviews, threat modeling, and risk-based remediation for critical systems, helping reduce exposure without slowing delivery.
+- Improve security coverage and remediation efficiency through pipeline automation, governance practices, and developer enablement.
 
 ### 💼 B3 Digitas – DevSecOps Engineer | Brazil – Remote
-- Led security initiatives for digital financial products, including highly regulated and innovation-driven environments;
-- Embedded security controls into CI/CD workflows, infrastructure, and application pipelines using automation and secure development practices;
-- Supported secure delivery through cloud, container, API, and architecture security reviews.
+- Led security initiatives for digital financial products in highly regulated and innovation-driven environments.
+- Embedded security controls into CI/CD workflows, infrastructure, and application pipelines through automation and secure development practices.
+- Supported resilient product delivery through cloud, container, API, and architecture security reviews.
 
 ### 💼 Ignít – Application Security Specialist | Europe – Remote
-- Designed and strengthened AppSec and DevSecOps practices across the software lifecycle in distributed engineering environments;
-- Conducted threat modeling, secure code reviews, and offensive/defensive validations for web, mobile, and API applications;
+- Designed and strengthened Application Security and DevSecOps practices across the software lifecycle in distributed engineering environments.
+- Conducted threat modeling, secure code reviews, and offensive/defensive validations for web, mobile, and API applications.
 - Advanced security maturity through governance, metrics, enablement, and compliance-aligned initiatives.
 
 ### 💼 Algar Telecom – Application Security Specialist | Brazil – Remote
-- Led application security strategy and implementation across development, architecture, and operations teams;
-- Integrated SAST, DAST, SCA, and IAST into CI/CD workflows while promoting Security by Design and Shift Left practices;
-- Helped improve security maturity in a large-scale telecommunications environment through standards, controls, and training.
+- Led Application Security strategy and implementation across development, architecture, and operations teams in a large-scale telecommunications environment.
+- Integrated SAST, DAST, SCA, and IAST into CI/CD workflows while promoting Security by Design and Shift Left practices.
+- Strengthened engineering maturity through security standards, control adoption, and technical enablement.
 
 ### 💼 Trademaster – Application Security Engineer | Brazil – Remote
-- Supported the implementation of secure software development practices and improvements to application security in product delivery environments;
-- Contributed to secure pipeline validation, secure coding practices, and risk mitigation initiatives.
+- Supported the implementation of secure software development practices and application security improvements in product delivery environments.
+- Contributed to pipeline validation, secure coding practices, and risk mitigation initiatives across engineering workflows.
+- Helped teams adopt more secure delivery patterns through technical guidance, control implementation, and security best practices.
 
 ### 💼 Avanade – Senior Application Security Engineer | Brazil – Remote
-- Worked on security initiatives involving secure development, application validation, and collaboration with engineering teams;
-- Contributed to risk reduction and the implementation of security best practices in corporate environments.
+- Led secure development and application security initiatives across enterprise environments, partnering with engineering teams throughout delivery phases.
+- Conducted security reviews, application validation, and risk-oriented assessments to improve resilience and reduce software exposure.
+- Contributed to stronger security practices through governance support, technical guidance, and development-focused improvements.
 
 ### 💼 KPMG – Mid-Level Cybersecurity Consultant | Brazil – Remote
-- Supported cybersecurity initiatives and security assessments focused on governance, risk, compliance, and technical security controls;
-- Worked with teams to improve security posture, process maturity, and compliance alignment.
+- Supported cybersecurity initiatives and security assessments focused on governance, risk, compliance, and technical security controls across client environments.
+- Worked with technical and business teams to improve security posture, process maturity, and remediation alignment.
+- Helped translate assessment findings into structured improvements and risk reduction actions.
 
 ### 💼 Mosyle – Security Researcher I | Brazil – Remote
-- Contributed to security research, analysis, and technical support for security-related initiatives;
-- Helped strengthen the technical foundations in vulnerability analysis and security thinking
+- Contributed to security research, technical analysis, and malware-focused investigations related to Apple ecosystems.
+- Supported vulnerability analysis and technical research activities, strengthening the foundations of security assessment and analytical thinking.
+- Improved internal security knowledge through technical investigation, research support, and security-oriented analysis.
 
 ----
 
