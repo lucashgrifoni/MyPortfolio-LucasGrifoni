@@ -53,7 +53,7 @@ In these roles, I have helped organizations strengthen their resilience, improve
 ### 💼 B3 Digitas – DevSecOps Engineer | Brazil – Remote
 - Led security initiatives for digital financial products in highly regulated and innovation-driven environments.
 - Embedded security controls into CI/CD workflows, infrastructure, and application pipelines through automation and secure development practices.
-- Supported resilient product delivery through cloud, container, API, and architecture security reviews.
+- Strengthened resilient product delivery through cloud, container, API, and architecture security reviews.
 
 ### 💼 Ignít – Application Security Specialist | Europe – Remote
 - Designed and strengthened Application Security and DevSecOps practices across the software lifecycle in distributed engineering environments.
@@ -66,24 +66,24 @@ In these roles, I have helped organizations strengthen their resilience, improve
 - Strengthened engineering maturity through security standards, control adoption, and technical enablement.
 
 ### 💼 Trademaster – Application Security Engineer | Brazil – Remote
-- Supported the implementation of secure software development practices and application security improvements in product delivery environments.
-- Contributed to pipeline validation, secure coding practices, and risk mitigation initiatives across engineering workflows.
-- Helped teams adopt more secure delivery patterns through technical guidance, control implementation, and security best practices.
+- Advanced secure software development practices and application security improvements across product delivery environments.
+- Strengthened pipeline validation, secure coding practices, and risk mitigation initiatives across engineering workflows.
+- Enabled teams to adopt more secure delivery patterns through technical guidance, control implementation, and security best practices.
 
 ### 💼 Avanade – Senior Application Security Engineer | Brazil – Remote
 - Led secure development and application security initiatives across enterprise environments, partnering with engineering teams throughout delivery phases.
 - Conducted security reviews, application validation, and risk-oriented assessments to improve resilience and reduce software exposure.
-- Contributed to stronger security practices through governance support, technical guidance, and development-focused improvements.
+- Strengthened security practices through governance support, technical guidance, and development-focused improvements across enterprise delivery environments.
 
 ### 💼 KPMG – Mid-Level Cybersecurity Consultant | Brazil – Remote
-- Supported cybersecurity initiatives and security assessments focused on governance, risk, compliance, and technical security controls across client environments.
-- Worked with technical and business teams to improve security posture, process maturity, and remediation alignment.
-- Helped translate assessment findings into structured improvements and risk reduction actions.
+- Delivered cybersecurity assessments focused on governance, risk, compliance, and technical security controls across client environments.
+- Partnered with technical and business teams to improve security posture, process maturity, and remediation alignment.
+- Translated assessment findings into structured improvements and risk reduction actions.
 
 ### 💼 Mosyle – Security Researcher I | Brazil – Remote
-- Contributed to security research, technical analysis, and malware-focused investigations related to Apple ecosystems.
+- Contributed to security research, technical analysis, and malware-focused investigations across Apple ecosystems.
 - Supported vulnerability analysis and technical research activities, strengthening the foundations of security assessment and analytical thinking.
-- Improved internal security knowledge through technical investigation, research support, and security-oriented analysis.
+- Strengthened internal security knowledge and analytical capability through technical investigation, research support, and security-oriented analysis.
 
 ----
 
